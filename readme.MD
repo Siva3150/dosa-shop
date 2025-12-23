@@ -3,3 +3,4 @@
 Preparing Plain Dosa
 
 * Dosa Batter 
+* Adding Oil 
