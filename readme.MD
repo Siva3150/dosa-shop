@@ -1,3 +1,5 @@
 # Dosa Shop 
 
-Preparing Plain Dosa 
+Preparing Plain Dosa
+
+* Dosa Batter 
