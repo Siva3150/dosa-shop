@@ -10,3 +10,9 @@ Preparing Plain Dosa
 * Dosa Batter
 * karam 
 * oil
+* extra egg 
+
+# Egg dosa 
+* dosa batter 
+* egga nd karam 
+* oil 
