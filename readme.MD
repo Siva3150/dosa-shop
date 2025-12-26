@@ -19,3 +19,5 @@ Preparing Plain Dosa
 * 2 karam 
 
 
+# mushroom dosa
+* dosa batter 
