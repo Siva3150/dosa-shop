@@ -26,3 +26,4 @@ Preparing Plain Dosa
 * caroot
 * beetroot
 * cheese and butter 
+* garam masala
