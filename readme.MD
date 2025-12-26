@@ -21,3 +21,6 @@ Preparing Plain Dosa
 
 # mushroom dosa
 * dosa batter 
+* masala
+* butter 
+* oil 
