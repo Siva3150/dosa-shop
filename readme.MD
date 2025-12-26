@@ -16,3 +16,6 @@ Preparing Plain Dosa
 * dosa batter 
 * egga nd karam 
 * oil 
+* 2 karam 
+
+
