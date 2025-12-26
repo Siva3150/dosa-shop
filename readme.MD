@@ -19,3 +19,16 @@ Preparing Plain Dosa
 * 2 karam 
 
 
+# mushroom dosa
+* dosa batter 
+* masala
+* butter 
+* oil 
+* onions
+
+# Ghee karam dosa
+* dosa batter 
+* 2 karam 
+* oil 
+* ghee
+
