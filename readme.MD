@@ -19,6 +19,7 @@ Preparing Plain Dosa
 * 2 karam 
 
 
+
 # paneer dosa 
 * Dosa batter 
 * paneer
@@ -27,3 +28,18 @@ Preparing Plain Dosa
 * beetroot
 * cheese and butter 
 * garam masala
+=======
+# mushroom dosa
+* dosa batter 
+* masala
+* butter 
+* oil 
+* onions
+
+# Ghee karam dosa
+* dosa batter 
+* 2 karam 
+* oil 
+* ghee
+
+
