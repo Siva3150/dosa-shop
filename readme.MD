@@ -28,3 +28,6 @@ Preparing Plain Dosa
 
 # Ghee karam dosa
 * dosa batter 
+* 2 karam 
+* oil 
+
