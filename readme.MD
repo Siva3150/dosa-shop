@@ -8,5 +8,5 @@ Preparing Plain Dosa
 # karam dosa
 
 * Dosa Batter
-* karam
+* 2 karam 
 * oil 
