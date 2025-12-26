@@ -24,3 +24,4 @@ Preparing Plain Dosa
 * paneer
 * oil 
 * caroot
+* beetroot
