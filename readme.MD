@@ -19,3 +19,5 @@ Preparing Plain Dosa
 * 2 karam 
 
 
+# paneer dosa 
+* Dosa batter 
